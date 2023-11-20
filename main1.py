@@ -9,12 +9,6 @@ app = FastAPI()
 def read_root():
     return {"Hello": "World"}
 
-
-
-
-
-
-
 app = FastAPI()
 products = [ {
     "ID" : 1,
